@@ -4,13 +4,11 @@ Roll the dice anytime and anywhere you want :)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Press the dice to see random outcomes like any real world dice.
 
-A few resources to get you started if this is your first Flutter project:
+## Future Updates
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Future Updates may include the option to chose the number of dice. The player / user may chose the number of dice to role (or press) according to his / her requirement at the moment. The current version has two dice by default.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+**Version : 1.0.0
